@@ -45,7 +45,7 @@ pip install videoboard
 
 Install from the latest code:
 ```
-git clone https://github.com/youngwoon/videoboard.git
+git clone https://github.com/sakgoyal/videoboard.git
 cd videoboard
 pip install -e .
 ```
